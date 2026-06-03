@@ -1,7 +1,5 @@
 # Nathan Krebs
 
-<!-- profile-readme-refresh: 2026-06-03 -->
-
 I build production mobile and web software, mostly where Android architecture, Kotlin Multiplatform, product polish, and developer tooling overlap.
 
 Lead Android Engineer at Disney+. I use AI-driven development heavily in my day-to-day loop, but the bar is still the boring stuff that survives contact with production: clean diffs, useful tests, readable architecture, and releases that do not turn into archaeology.
