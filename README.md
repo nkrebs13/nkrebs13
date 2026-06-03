@@ -6,37 +6,36 @@ Lead Android Engineer at Disney+. I use AI-driven development heavily in my day-
 
 Open to contract work and worthwhile engineering conversations through [LinkedIn](https://www.linkedin.com/in/nathan-krebs0/).
 
-<p>
-  <img src="./generated/overview.svg" alt="Generated GitHub surface overview for Nathan Krebs" width="760">
-</p>
-
-<p>
-  <img src="./generated/languages.svg" alt="Generated public repository language breakdown for Nathan Krebs" width="760">
-</p>
-
 ## In Production
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <a href="https://get-liftoff.app"><img src="./assets/production/liftoff-og.png" alt="Liftoff app preview" width="250"></a>
-      <br>
+    <td width="36%" valign="top">
+      <a href="https://get-liftoff.app"><img src="./assets/production/liftoff-og.png" alt="Liftoff app preview" width="320"></a>
+    </td>
+    <td valign="top">
       <strong><a href="https://get-liftoff.app">Liftoff</a></strong><br>
       <sub>iOS / Android · App Store + Google Play</sub>
       <br><br>
       Rocket launch tracking with a countdown-first feed, mission detail, launch alerts, supported SpaceX telemetry, and Android widgets.
     </td>
-    <td width="33%" valign="top">
-      <a href="https://www.ktkcreative.com"><img src="./assets/production/ktkcreative-og.png" alt="KTK Creative website preview" width="250"></a>
-      <br>
+  </tr>
+  <tr>
+    <td width="36%" valign="top">
+      <a href="https://www.ktkcreative.com"><img src="./assets/production/ktkcreative-og.png" alt="KTK Creative website preview" width="320"></a>
+    </td>
+    <td valign="top">
       <strong><a href="https://www.ktkcreative.com">KTK Creative</a></strong><br>
       <sub>Web · photography / videography business</sub>
       <br><br>
-      Custom production site for my wife's photography business: portfolio, services, inquiry flow, and admin-managed content behind the scenes.
+      Custom production site for my wife's photography business: portfolio, services, inquiry flow, and admin-managed content.
     </td>
-    <td width="33%" valign="top">
-      <a href="https://nathankrebs.com"><img src="./assets/production/nathankrebs-og.png" alt="nathankrebs.com website preview" width="250"></a>
-      <br>
+  </tr>
+  <tr>
+    <td width="36%" valign="top">
+      <a href="https://nathankrebs.com"><img src="./assets/production/nathankrebs-og.png" alt="nathankrebs.com website preview" width="320"></a>
+    </td>
+    <td valign="top">
       <strong><a href="https://nathankrebs.com">nathankrebs.com</a></strong><br>
       <sub>Web · professional showcase</sub>
       <br><br>
@@ -45,28 +44,38 @@ Open to contract work and worthwhile engineering conversations through [LinkedIn
   </tr>
 </table>
 
+## GitHub Snapshot
+
+<p>
+  <img src="./generated/overview.svg" alt="Generated GitHub surface overview for Nathan Krebs" width="760">
+</p>
+
+<p>
+  <img src="./generated/languages.svg" alt="Generated public repository language breakdown for Nathan Krebs" width="760">
+</p>
+
 ## Open Source Apps
 
-| Project | Platform | Surface | Notes |
-| --- | --- | --- | --- |
-| [Squares](https://github.com/nkrebs13/Squares) | Web / PWA | [Live demo](https://squares.nathankrebs.com) · [Repo](https://github.com/nkrebs13/Squares) | Full-stack realtime multiplayer web app. SvelteKit 5, Supabase Realtime, Cloudflare Pages, CI, ADRs, and a production run with real users. |
-| [PomoDaddy](https://github.com/nkrebs13/PomoDaddy) | macOS | [Releases](https://github.com/nkrebs13/PomoDaddy/releases) · [Homebrew cask](https://github.com/nkrebs13/homebrew-tap) | Menu-bar Pomodoro timer built with SwiftUI and SwiftData. Local-first, Homebrew-installable, and named exactly as seriously as it needs to be. |
+**[Squares](https://github.com/nkrebs13/Squares)** · Web / PWA · [Live demo](https://squares.nathankrebs.com) · [Repo](https://github.com/nkrebs13/Squares)<br>
+Full-stack realtime multiplayer web app. SvelteKit 5, Supabase Realtime, Cloudflare Pages, CI, ADRs, and a production run with real users.
+
+**[PomoDaddy](https://github.com/nkrebs13/PomoDaddy)** · macOS · [Releases](https://github.com/nkrebs13/PomoDaddy/releases) · [Homebrew cask](https://github.com/nkrebs13/homebrew-tap)<br>
+Menu-bar Pomodoro timer built with SwiftUI and SwiftData. Local-first, Homebrew-installable, and named exactly as seriously as it needs to be.
 
 ## Open Source Tools
 
-| Project | Platform | Surface | Notes |
-| --- | --- | --- | --- |
-| [kmp-template](https://github.com/nkrebs13/kmp-template) | Kotlin Multiplatform | Template repo | Production-oriented iOS/Android starter with Compose Multiplatform, code quality gates, and AI-assisted project generation. |
-| [app-icon-banner](https://github.com/nkrebs13/app-icon-banner) | Gradle / KMP | [Gradle Plugin Portal](https://plugins.gradle.org/plugin/io.github.nkrebs13.app-icon-banner) · [Repo](https://github.com/nkrebs13/app-icon-banner) | Gradle plugin that stamps Android and iOS app icons from one DSL. Small tool, real developer-experience problem. |
+**[kmp-template](https://github.com/nkrebs13/kmp-template)** · Kotlin Multiplatform · Template repo<br>
+Production-oriented iOS/Android starter with Compose Multiplatform, code quality gates, and AI-assisted project generation.
+
+**[app-icon-banner](https://github.com/nkrebs13/app-icon-banner)** · Gradle / KMP · [Gradle Plugin Portal](https://plugins.gradle.org/plugin/io.github.nkrebs13.app-icon-banner) · [Repo](https://github.com/nkrebs13/app-icon-banner)<br>
+Gradle plugin that stamps Android and iOS app icons from one DSL. Small tool, real developer-experience problem.
 
 ## Currently
 
-| Track | Shape |
-| --- | --- |
-| Android / KMP | Lead Android at Disney+; building mobile systems where product UX and architecture both matter. |
-| Realtime web | Squares is the public example: SvelteKit, Supabase Realtime, PWA, production runbook. |
-| Developer tooling | KMP templates, Gradle plugins, release-loop cleanup, and anything that removes repeat work. |
-| AI-driven development | Heavy daily use for implementation, review, automation, and verification. The output still has to be maintainable code. |
+- **Android / KMP** - Lead Android at Disney+; building mobile systems where product UX and architecture both matter.
+- **Realtime web** - Squares is the public example: SvelteKit, Supabase Realtime, PWA, production runbook.
+- **Developer tooling** - KMP templates, Gradle plugins, release-loop cleanup, and anything that removes repeat work.
+- **AI-driven development** - Heavy daily use for implementation, review, automation, and verification. The output still has to be maintainable code.
 
 ## Recent Public Activity
 
