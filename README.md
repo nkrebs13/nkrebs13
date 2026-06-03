@@ -6,7 +6,7 @@ Lead Android Engineer at Disney+. I use AI-driven development heavily in my day-
 
 Open to contract work and worthwhile engineering conversations through [LinkedIn](https://www.linkedin.com/in/nathan-krebs0/).
 
-[nathankrebs.com](https://nathankrebs.com) · [LinkedIn](https://www.linkedin.com/in/nathan-krebs0/) · [Liftoff](https://get-liftoff.app)
+[nathankrebs.com](https://nathankrebs.com) · [LinkedIn](https://www.linkedin.com/in/nathan-krebs0/)
 
 <p>
   <img src="./generated/overview.svg" alt="Generated GitHub surface overview for Nathan Krebs" width="760">
@@ -16,14 +16,42 @@ Open to contract work and worthwhile engineering conversations through [LinkedIn
   <img src="./generated/languages.svg" alt="Generated public repository language breakdown for Nathan Krebs" width="760">
 </p>
 
-## Public Work
+## In Production
 
-| Repo | Why it is here |
-| --- | --- |
-| [Squares](https://github.com/nkrebs13/Squares) | Full-stack realtime multiplayer web app for football squares pools. SvelteKit 5, Supabase Realtime, Cloudflare Pages, PWA support, CI, ADRs, and a live production run with real users. |
-| [kmp-template](https://github.com/nkrebs13/kmp-template) | Production-oriented Kotlin Multiplatform template for iOS and Android apps with Compose Multiplatform, code quality gates, and AI-assisted project generation. |
-| [app-icon-banner](https://github.com/nkrebs13/app-icon-banner) | Gradle plugin for KMP projects that stamps Android and iOS app icons from one DSL. Small tool, real developer-experience problem. |
-| [PomoDaddy](https://github.com/nkrebs13/PomoDaddy) | macOS menu-bar Pomodoro timer built with SwiftUI and SwiftData. Local-first, Homebrew-installable, and named exactly as seriously as it needs to be. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://get-liftoff.app"><img src="./assets/production/liftoff-og.png" alt="Liftoff app preview" width="380"></a>
+      <br>
+      <strong><a href="https://get-liftoff.app">Liftoff</a></strong><br>
+      <sub>iOS / Android · App Store + Google Play</sub>
+      <br><br>
+      Rocket launch tracking with a countdown-first feed, mission detail, launch alerts, supported SpaceX telemetry, and Android widgets.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.ktkcreative.com"><img src="./assets/production/ktkcreative-og.png" alt="KTK Creative website preview" width="380"></a>
+      <br>
+      <strong><a href="https://www.ktkcreative.com">KTK Creative</a></strong><br>
+      <sub>Web · photography / videography business</sub>
+      <br><br>
+      Custom production site for a real creative business: portfolio, services, inquiry flow, and admin-managed content behind the scenes.
+    </td>
+  </tr>
+</table>
+
+## Open Source Apps
+
+| Project | Platform | Surface | Notes |
+| --- | --- | --- | --- |
+| [Squares](https://github.com/nkrebs13/Squares) | Web / PWA | [Live demo](https://squares.nathankrebs.com) · [Repo](https://github.com/nkrebs13/Squares) | Full-stack realtime multiplayer web app. SvelteKit 5, Supabase Realtime, Cloudflare Pages, CI, ADRs, and a production run with real users. |
+| [PomoDaddy](https://github.com/nkrebs13/PomoDaddy) | macOS | [Releases](https://github.com/nkrebs13/PomoDaddy/releases) · [Homebrew cask](https://github.com/nkrebs13/homebrew-tap) | Menu-bar Pomodoro timer built with SwiftUI and SwiftData. Local-first, Homebrew-installable, and named exactly as seriously as it needs to be. |
+
+## Open Source Tools
+
+| Project | Platform | Surface | Notes |
+| --- | --- | --- | --- |
+| [kmp-template](https://github.com/nkrebs13/kmp-template) | Kotlin Multiplatform | Template repo | Production-oriented iOS/Android starter with Compose Multiplatform, code quality gates, and AI-assisted project generation. |
+| [app-icon-banner](https://github.com/nkrebs13/app-icon-banner) | Gradle / KMP | [Gradle Plugin Portal](https://plugins.gradle.org/plugin/io.github.nkrebs13.app-icon-banner) · [Repo](https://github.com/nkrebs13/app-icon-banner) | Gradle plugin that stamps Android and iOS app icons from one DSL. Small tool, real developer-experience problem. |
 
 ## Currently
 
