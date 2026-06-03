@@ -34,7 +34,7 @@ Open to contract work and worthwhile engineering conversations through [LinkedIn
       <strong><a href="https://www.ktkcreative.com">KTK Creative</a></strong><br>
       <sub>Web · photography / videography business</sub>
       <br><br>
-      Custom production site for a real creative business: portfolio, services, inquiry flow, and admin-managed content behind the scenes.
+      Custom production site for my wife's photography business: portfolio, services, inquiry flow, and admin-managed content behind the scenes.
     </td>
   </tr>
 </table>
