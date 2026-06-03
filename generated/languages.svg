@@ -1,0 +1,55 @@
+<svg width="760" height="190" viewBox="0 0 760 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Languages</title>
+  <desc id="desc">By public repo file size</desc>
+  <style>
+    .card { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+    .title { fill: #f0f6fc; font: 600 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .sub { fill: #8b949e; font: 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .label { fill: #8b949e; font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .value { fill: #f0f6fc; font: 600 22px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .small { fill: #c9d1d9; font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .muted { fill: #8b949e; font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  </style>
+  <rect class="card" x="0.5" y="0.5" width="759" height="189" rx="8"/>
+  <text class="title" x="24" y="34">Languages</text>
+  <text class="sub" x="24" y="56">By public repo file size</text>
+  
+  <clipPath id="barClip"><rect x="24" y="78" width="712" height="10" rx="5"/></clipPath>
+  <rect x="24" y="78" width="712" height="10" rx="5" fill="#21262d"/>
+  <g clip-path="url(#barClip)"><rect x="24" y="78" width="285.69" height="10" fill="#3178c6"/>
+<rect x="309.68710905572" y="78" width="180.10" height="10" fill="#f05138"/>
+<rect x="489.78911469554214" y="78" width="81.19" height="10" fill="#7f52ff"/>
+<rect x="570.9754883721774" y="78" width="68.35" height="10" fill="#ff3e00"/>
+<rect x="639.3273401904181" y="78" width="51.35" height="10" fill="#336791"/>
+<rect x="690.6761966472038" y="78" width="19.22" height="10" fill="#89e051"/></g>
+  <g>
+      <circle cx="24" cy="118" r="5" fill="#3178c6"/>
+      <text class="small" x="38" y="122">TypeScript</text>
+      <text class="muted" x="38" y="138">40.1%</text>
+    </g>
+<g>
+      <circle cx="262" cy="118" r="5" fill="#f05138"/>
+      <text class="small" x="276" y="122">Swift</text>
+      <text class="muted" x="276" y="138">25.3%</text>
+    </g>
+<g>
+      <circle cx="500" cy="118" r="5" fill="#7f52ff"/>
+      <text class="small" x="514" y="122">Kotlin</text>
+      <text class="muted" x="514" y="138">11.4%</text>
+    </g>
+<g>
+      <circle cx="24" cy="152" r="5" fill="#ff3e00"/>
+      <text class="small" x="38" y="156">Svelte</text>
+      <text class="muted" x="38" y="172">9.6%</text>
+    </g>
+<g>
+      <circle cx="262" cy="152" r="5" fill="#336791"/>
+      <text class="small" x="276" y="156">PLpgSQL</text>
+      <text class="muted" x="276" y="172">7.2%</text>
+    </g>
+<g>
+      <circle cx="500" cy="152" r="5" fill="#89e051"/>
+      <text class="small" x="514" y="156">Shell</text>
+      <text class="muted" x="514" y="172">2.7%</text>
+    </g>
+</svg>

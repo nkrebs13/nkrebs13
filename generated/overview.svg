@@ -1,0 +1,38 @@
+<svg width="760" height="190" viewBox="0 0 760 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Surface</title>
+  <desc id="desc">Generated from GitHub profile data</desc>
+  <style>
+    .card { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+    .title { fill: #f0f6fc; font: 600 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .sub { fill: #8b949e; font: 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .label { fill: #8b949e; font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .value { fill: #f0f6fc; font: 600 22px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .small { fill: #c9d1d9; font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .muted { fill: #8b949e; font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  </style>
+  <rect class="card" x="0.5" y="0.5" width="759" height="189" rx="8"/>
+  <text class="title" x="24" y="34">GitHub Surface</text>
+  <text class="sub" x="24" y="56">Generated from GitHub profile data</text>
+  
+  <g transform="translate(24 84)">
+    <g>
+    <text class="value" x="0" y="0">9</text>
+    <text class="label" x="0" y="22">public repos</text>
+  </g>
+<g>
+    <text class="value" x="180" y="0">4</text>
+    <text class="label" x="180" y="22">featured repos</text>
+  </g>
+<g>
+    <text class="value" x="360" y="0">2</text>
+    <text class="label" x="360" y="22">public releases</text>
+  </g>
+<g>
+    <text class="value" x="540" y="0">10,326</text>
+    <text class="label" x="540" y="22">contribution graph</text>
+  </g>
+  </g>
+  <line x1="24" y1="132" x2="736" y2="132" stroke="#21262d"/>
+  <text class="small" x="24" y="158">Recent: app-icon-banner (pushes, pull requests) · Squares (pull requests)</text>
+  <text class="muted" x="24" y="176">Public GitHub proof layer for mobile, KMP, realtime web, and developer tooling.</text>
+</svg>

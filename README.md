@@ -8,6 +8,14 @@ Open to contract work and worthwhile engineering conversations through [LinkedIn
 
 [nathankrebs.com](https://nathankrebs.com) · [LinkedIn](https://www.linkedin.com/in/nathan-krebs0/) · [Liftoff](https://get-liftoff.app)
 
+<p>
+  <img src="./generated/overview.svg" alt="Generated GitHub surface overview for Nathan Krebs" width="760">
+</p>
+
+<p>
+  <img src="./generated/languages.svg" alt="Generated public repository language breakdown for Nathan Krebs" width="760">
+</p>
+
 ## Public Work
 
 | Repo | Why it is here |
@@ -17,14 +25,16 @@ Open to contract work and worthwhile engineering conversations through [LinkedIn
 | [app-icon-banner](https://github.com/nkrebs13/app-icon-banner) | Gradle plugin for KMP projects that stamps Android and iOS app icons from one DSL. Small tool, real developer-experience problem. |
 | [PomoDaddy](https://github.com/nkrebs13/PomoDaddy) | macOS menu-bar Pomodoro timer built with SwiftUI and SwiftData. Local-first, Homebrew-installable, and named exactly as seriously as it needs to be. |
 
-## What I Like Working On
+## Currently
 
-- Android and KMP systems where product UX and architecture both matter.
-- Developer tools that remove repeat work from the build, review, or release loop.
-- Realtime web apps with clear operational constraints.
-- AI-driven development workflows that still leave behind maintainable code.
+| Track | Shape |
+| --- | --- |
+| Android / KMP | Lead Android at Disney+; building mobile systems where product UX and architecture both matter. |
+| Realtime web | Squares is the public example: SvelteKit, Supabase Realtime, PWA, production runbook. |
+| Developer tooling | KMP templates, Gradle plugins, release-loop cleanup, and anything that removes repeat work. |
+| AI-driven development | Heavy daily use for implementation, review, automation, and verification. The output still has to be maintainable code. |
 
-## Public GitHub Pulse
+## Recent Public Activity
 
 <!-- github-pulse:start -->
 - Recent public activity: [app-icon-banner](https://github.com/nkrebs13/app-icon-banner) (pushes, pull requests); [Squares](https://github.com/nkrebs13/Squares) (pull requests).
@@ -32,3 +42,6 @@ Open to contract work and worthwhile engineering conversations through [LinkedIn
 - Featured public repos: [Squares](https://github.com/nkrebs13/Squares) (TypeScript, MIT); [kmp-template](https://github.com/nkrebs13/kmp-template) (Shell, MIT); [app-icon-banner](https://github.com/nkrebs13/app-icon-banner) (Kotlin, MIT); [PomoDaddy](https://github.com/nkrebs13/PomoDaddy) (Swift, MIT).
 <!-- github-pulse:end -->
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=nkrebs13&style=flat&color=8b949e&label=profile+views" alt="Profile views">
+</p>
