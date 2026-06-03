@@ -2,6 +2,7 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 
 const username = "nkrebs13";
 const featuredRepos = ["Squares", "kmp-template", "app-icon-banner", "PomoDaddy"];
+const excludedRepos = new Set([username, `${username}-profile-preview`]);
 const readmePath = new URL("../README.md", import.meta.url);
 const generatedDir = new URL("../generated/", import.meta.url);
 const overviewPath = new URL("../generated/overview.svg", import.meta.url);
@@ -131,7 +132,7 @@ async function latestReleases() {
 async function publicRepos() {
   const repos = await fetchJson(`/users/${username}/repos?type=owner&sort=pushed&per_page=100`);
 
-  return repos.filter((repo) => !repo.fork);
+  return repos.filter((repo) => !repo.fork && !excludedRepos.has(repo.name));
 }
 
 async function publicRepoSnapshot(repos) {
@@ -303,7 +304,7 @@ function renderOverviewSvg({ repos, releases, contributions, activity }) {
   <text class="muted" x="24" y="176">Public GitHub proof layer for mobile, KMP, realtime web, and developer tooling.</text>`;
 
   return svgShell({
-    title: "GitHub Surface",
+    title: "GitHub Snapshot",
     subtitle: "Generated from GitHub profile data",
     body,
   });

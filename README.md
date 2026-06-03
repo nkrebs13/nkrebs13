@@ -47,7 +47,7 @@ Open to contract work and worthwhile engineering conversations through [LinkedIn
 ## GitHub Snapshot
 
 <p>
-  <img src="./generated/overview.svg" alt="Generated GitHub surface overview for Nathan Krebs" width="760">
+  <img src="./generated/overview.svg" alt="Generated GitHub snapshot overview for Nathan Krebs" width="760">
 </p>
 
 <p>
