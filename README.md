@@ -6,8 +6,6 @@ Lead Android Engineer at Disney+. I use AI-driven development heavily in my day-
 
 Open to contract work and worthwhile engineering conversations through [LinkedIn](https://www.linkedin.com/in/nathan-krebs0/).
 
-[nathankrebs.com](https://nathankrebs.com) · [LinkedIn](https://www.linkedin.com/in/nathan-krebs0/)
-
 <p>
   <img src="./generated/overview.svg" alt="Generated GitHub surface overview for Nathan Krebs" width="760">
 </p>
@@ -20,21 +18,29 @@ Open to contract work and worthwhile engineering conversations through [LinkedIn
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://get-liftoff.app"><img src="./assets/production/liftoff-og.png" alt="Liftoff app preview" width="380"></a>
+    <td width="33%" valign="top">
+      <a href="https://get-liftoff.app"><img src="./assets/production/liftoff-og.png" alt="Liftoff app preview" width="250"></a>
       <br>
       <strong><a href="https://get-liftoff.app">Liftoff</a></strong><br>
       <sub>iOS / Android · App Store + Google Play</sub>
       <br><br>
       Rocket launch tracking with a countdown-first feed, mission detail, launch alerts, supported SpaceX telemetry, and Android widgets.
     </td>
-    <td width="50%" valign="top">
-      <a href="https://www.ktkcreative.com"><img src="./assets/production/ktkcreative-og.png" alt="KTK Creative website preview" width="380"></a>
+    <td width="33%" valign="top">
+      <a href="https://www.ktkcreative.com"><img src="./assets/production/ktkcreative-og.png" alt="KTK Creative website preview" width="250"></a>
       <br>
       <strong><a href="https://www.ktkcreative.com">KTK Creative</a></strong><br>
       <sub>Web · photography / videography business</sub>
       <br><br>
       Custom production site for my wife's photography business: portfolio, services, inquiry flow, and admin-managed content behind the scenes.
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://nathankrebs.com"><img src="./assets/production/nathankrebs-og.png" alt="nathankrebs.com website preview" width="250"></a>
+      <br>
+      <strong><a href="https://nathankrebs.com">nathankrebs.com</a></strong><br>
+      <sub>Web · professional showcase</sub>
+      <br><br>
+      Personal site for positioning, shipped work, and contact. Built as a production showcase, not a static bio.
     </td>
   </tr>
 </table>
