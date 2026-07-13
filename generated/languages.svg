@@ -16,40 +16,40 @@
   
   <clipPath id="barClip"><rect x="24" y="78" width="712" height="10" rx="5"/></clipPath>
   <rect x="24" y="78" width="712" height="10" rx="5" fill="#21262d"/>
-  <g clip-path="url(#barClip)"><rect x="24" y="78" width="282.16" height="10" fill="#3178c6"/>
-<rect x="306.15608034063627" y="78" width="177.88" height="10" fill="#f05138"/>
-<rect x="484.03206550770983" y="78" width="88.38" height="10" fill="#7f52ff"/>
-<rect x="572.4084814893157" y="78" width="67.51" height="10" fill="#ff3e00"/>
-<rect x="639.9155197200721" y="78" width="50.71" height="10" fill="#336791"/>
-<rect x="690.6297158058144" y="78" width="19.59" height="10" fill="#89e051"/></g>
+  <g clip-path="url(#barClip)"><rect x="24" y="78" width="306.66" height="10" fill="#3178c6"/>
+<rect x="330.6561502078444" y="78" width="161.51" height="10" fill="#f05138"/>
+<rect x="492.16203940308355" y="78" width="80.24" height="10" fill="#7f52ff"/>
+<rect x="572.4050898271815" y="78" width="65.57" height="10" fill="#ff3e00"/>
+<rect x="637.974776557802" y="78" width="56.83" height="10" fill="#336791"/>
+<rect x="694.8051861810345" y="78" width="17.78" height="10" fill="#89e051"/></g>
   <g>
       <circle cx="24" cy="118" r="5" fill="#3178c6"/>
       <text class="small" x="38" y="122">TypeScript</text>
-      <text class="muted" x="38" y="138">39.6%</text>
+      <text class="muted" x="38" y="138">43.1%</text>
     </g>
 <g>
       <circle cx="262" cy="118" r="5" fill="#f05138"/>
       <text class="small" x="276" y="122">Swift</text>
-      <text class="muted" x="276" y="138">25.0%</text>
+      <text class="muted" x="276" y="138">22.7%</text>
     </g>
 <g>
       <circle cx="500" cy="118" r="5" fill="#7f52ff"/>
       <text class="small" x="514" y="122">Kotlin</text>
-      <text class="muted" x="514" y="138">12.4%</text>
+      <text class="muted" x="514" y="138">11.3%</text>
     </g>
 <g>
       <circle cx="24" cy="152" r="5" fill="#ff3e00"/>
       <text class="small" x="38" y="156">Svelte</text>
-      <text class="muted" x="38" y="172">9.5%</text>
+      <text class="muted" x="38" y="172">9.2%</text>
     </g>
 <g>
       <circle cx="262" cy="152" r="5" fill="#336791"/>
       <text class="small" x="276" y="156">PLpgSQL</text>
-      <text class="muted" x="276" y="172">7.1%</text>
+      <text class="muted" x="276" y="172">8.0%</text>
     </g>
 <g>
       <circle cx="500" cy="152" r="5" fill="#89e051"/>
       <text class="small" x="514" y="156">Shell</text>
-      <text class="muted" x="514" y="172">2.8%</text>
+      <text class="muted" x="514" y="172">2.5%</text>
     </g>
 </svg>
