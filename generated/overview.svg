@@ -28,11 +28,11 @@
     <text class="label" x="360" y="22">public releases</text>
   </g>
 <g>
-    <text class="value" x="540" y="0">13,686</text>
+    <text class="value" x="540" y="0">14,143</text>
     <text class="label" x="540" y="22">contribution graph</text>
   </g>
   </g>
   <line x1="24" y1="132" x2="736" y2="132" stroke="#21262d"/>
-  <text class="small" x="24" y="158">Recent: Squares (pull requests, pushes) · kmp-template (pull requests)</text>
+  <text class="small" x="24" y="158">Recent: Squares (pull requests) · kmp-template (pull requests)</text>
   <text class="muted" x="24" y="176">Public GitHub proof layer for mobile, KMP, realtime web, and developer tooling.</text>
 </svg>
