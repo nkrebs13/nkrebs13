@@ -24,11 +24,11 @@
     <text class="label" x="180" y="22">featured repos</text>
   </g>
 <g>
-    <text class="value" x="360" y="0">2</text>
+    <text class="value" x="360" y="0">1</text>
     <text class="label" x="360" y="22">public releases</text>
   </g>
 <g>
-    <text class="value" x="540" y="0">16,200</text>
+    <text class="value" x="540" y="0">16,429</text>
     <text class="label" x="540" y="22">contribution graph</text>
   </g>
   </g>
