@@ -16,16 +16,16 @@
   
   <clipPath id="barClip"><rect x="24" y="78" width="712" height="10" rx="5"/></clipPath>
   <rect x="24" y="78" width="712" height="10" rx="5" fill="#21262d"/>
-  <g clip-path="url(#barClip)"><rect x="24" y="78" width="306.66" height="10" fill="#3178c6"/>
-<rect x="330.6561502078444" y="78" width="161.51" height="10" fill="#f05138"/>
-<rect x="492.16203940308355" y="78" width="80.24" height="10" fill="#7f52ff"/>
-<rect x="572.4050898271815" y="78" width="65.57" height="10" fill="#ff3e00"/>
-<rect x="637.974776557802" y="78" width="56.83" height="10" fill="#336791"/>
-<rect x="694.8051861810345" y="78" width="17.78" height="10" fill="#89e051"/></g>
+  <g clip-path="url(#barClip)"><rect x="24" y="78" width="306.24" height="10" fill="#3178c6"/>
+<rect x="330.23979038983333" y="78" width="161.29" height="10" fill="#f05138"/>
+<rect x="491.5263963175187" y="78" width="81.10" height="10" fill="#7f52ff"/>
+<rect x="572.6272094454606" y="78" width="65.48" height="10" fill="#ff3e00"/>
+<rect x="638.1078694834297" y="78" width="56.75" height="10" fill="#336791"/>
+<rect x="694.8611180942639" y="78" width="17.76" height="10" fill="#89e051"/></g>
   <g>
       <circle cx="24" cy="118" r="5" fill="#3178c6"/>
       <text class="small" x="38" y="122">TypeScript</text>
-      <text class="muted" x="38" y="138">43.1%</text>
+      <text class="muted" x="38" y="138">43.0%</text>
     </g>
 <g>
       <circle cx="262" cy="118" r="5" fill="#f05138"/>
@@ -35,7 +35,7 @@
 <g>
       <circle cx="500" cy="118" r="5" fill="#7f52ff"/>
       <text class="small" x="514" y="122">Kotlin</text>
-      <text class="muted" x="514" y="138">11.3%</text>
+      <text class="muted" x="514" y="138">11.4%</text>
     </g>
 <g>
       <circle cx="24" cy="152" r="5" fill="#ff3e00"/>
