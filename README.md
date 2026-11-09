@@ -80,7 +80,7 @@ Gradle plugin that stamps Android and iOS app icons from one DSL. Small tool, re
 ## Recent Public Activity
 
 <!-- github-pulse:start -->
-- Recent public activity: [kmp-template](https://github.com/nkrebs13/kmp-template) (pushes, pull requests); [papercut](https://github.com/nkrebs13/papercut) (pull requests).
+- Recent public activity: [kmp-template](https://github.com/nkrebs13/kmp-template) (pull requests).
 - Latest public releases: [kmp-template v4.0.0](https://github.com/nkrebs13/kmp-template/releases/tag/v4.0.0); [Squares v1.0.0 — Super Bowl Sunday 2026](https://github.com/nkrebs13/Squares/releases/tag/v1.0.0); [PomoDaddy v2026.3.5](https://github.com/nkrebs13/PomoDaddy/releases/tag/v2026.3.5).
 - Featured public repos: [Squares](https://github.com/nkrebs13/Squares) (TypeScript, MIT); [kmp-template](https://github.com/nkrebs13/kmp-template) (Shell, MIT); [app-icon-banner](https://github.com/nkrebs13/app-icon-banner) (Kotlin, MIT); [PomoDaddy](https://github.com/nkrebs13/PomoDaddy) (Swift, MIT).
 <!-- github-pulse:end -->
